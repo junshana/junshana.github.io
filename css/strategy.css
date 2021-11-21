@@ -1,0 +1,24 @@
+#Main #pdf{
+    list-style: none;
+}
+
+#Main #pdf li{
+    float: left;
+    padding: 0 10px;
+}
+
+#Main #pdf li a{
+    text-decoration: underline;
+}
+
+#Main #pdf li a:link,
+#Main #pdf li a:visited{
+    color: rgb(172, 9, 42);
+}
+#Main #pdf li a:hover,
+#Main #pdf li a:active{
+    color: rgb(155, 94, 25);
+}
+#Main article details summary {
+    text-align: left;
+}

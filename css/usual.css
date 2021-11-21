@@ -1,0 +1,162 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding:0px;
+
+}
+
+li {
+    list-style:none;
+}
+summary {
+    list-style: none;
+}
+summary h3 {
+    color: #e07070;
+}
+summary :hover,summary:active {
+color:cadetblue;
+}
+a{
+    text-decoration: none;
+}
+a:link,a:visited{
+    color:rgb(0, 0, 0);
+}
+a:hover,a:active{
+    color: cadetblue;
+}
+
+body{
+        width: 1200px;
+        margin: auto;
+        text-align: center;
+        background-image: url(../luotuo/hushuiren.jpg);
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        -webkit-background-size: 100% 100%;/*谷歌浏览器生效*/
+        background-size: 100% 100%;
+}
+header{
+    height: 130px;
+    background-image: url(../luotuo/changtu.jpg);
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;/*谷歌浏览器生效*/
+    background-size: 100% 100%;
+}
+header h1{
+    font-family: cursive,sans-serif;
+    color: rgb(212, 145, 0);
+    font-size:larger;
+    text-align: right;
+}
+#logo{
+    width: 130px;
+    height: 130px;
+    float:left;
+}
+nav{
+    height: 30px;
+    padding-top: 5px;
+    background-color:rgb(228, 209, 192);
+    font-size: 0;
+}
+.navother{
+    padding: 6px 16px 7px 16px;
+    border-style: none solid none none;
+    border-width: thin;
+    border-color: blanchedalmond;
+    font-size: 17.5px;
+    border-color: rgba(59, 58, 58, 0.432);
+}
+#navmain{ 
+    border-style: none solid none solid;
+}
+#now{
+    background: rgb(218, 191, 157);
+}
+
+#ComMain{
+    background: rgb(245, 239, 234,0.7);
+    padding-bottom: 30px;
+    height: 100%;
+
+}
+#activity{
+    background: rgb(218, 191, 157);
+}
+
+#Main{
+    width: 60%;
+    background-color: rgba(241, 230, 209, 0.856);
+    padding:2%;
+    margin-left:18%;
+    margin-right:18%;
+}
+.article{
+    width: 80%;
+    height: 35%;
+    padding:15px 0;
+}
+#Main article details .author{
+    text-align: right;
+    font-size: 70%;
+}
+.maintitle{
+    text-align: center;    
+}
+#Main p{
+    text-align: left;
+}
+
+.partlist{
+    text-align: left;
+    color: cadetblue;
+}
+#Recommend{
+    width: 14%;
+    height: 100px;
+    background: none;
+    padding-top:2%;
+    padding-left:2%;
+    float: left; 
+}
+#Login{
+    width: 18%;
+    float:right;
+
+}
+#user{
+    text-align: center;
+    width: 100%;  
+}
+footer{
+    height: 200px;
+    border-style: solid none none none;
+    border-width: thin;
+    background-color: rgba(241, 230, 209, 0.856);
+    text-align: left;
+}
+#footerphoto{
+    width: 200px;
+    height:94%;
+    float: left;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+#huibiao{
+    width: 200px;
+    height:90%;
+    float: right;
+    padding: 10px;
+}
+footer a{
+    text-decoration: underline;
+}
+footer a:link,footer a:visited{
+    color: rgb(192, 63, 63);
+}
+footer a:hover,footer a:active{
+    color: rgb(90, 128, 124);
+}
