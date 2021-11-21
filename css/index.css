@@ -20,7 +20,7 @@ body{
         width: 1200px;
         margin: auto;
         text-align: center;
-        background-image: url(../luotuo/hushuiren.jpg);
+        background-image: url(../hushuiren.jpg);
         -moz-background-size: 100% 100%;
         -o-background-size: 100% 100%;
         -webkit-background-size: 100% 100%;/*谷歌浏览器生效*/
@@ -28,7 +28,7 @@ body{
 }
 header{
     height: 130px;
-    background-image: url(../luotuo/changtu.jpg);
+    background-image: url(../changtu.jpg);
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;/*谷歌浏览器生效*/
