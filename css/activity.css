@@ -2,7 +2,7 @@
     width: 70%;
     height: 70%;
 }
-#ComMain #Recommend{
+#ComMain #Recommend #recom{
     position: fixed;
-    left: 9%;
+    left: 5%;
 }
